@@ -14,6 +14,7 @@ Kiltrazo devuelve a casa a perros y gatos perdidos reconociendo su cara con cual
 | [docs/06-competencia.md](docs/06-competencia.md) | Competidores nacionales e internacionales y texto para el formulario |
 | [data/municipalidades.xlsx](data/municipalidades.xlsx) | Directorio de las 345 municipalidades (alcalde/sa, correos, teléfono, prioridad y seguimiento) |
 | [docs/07-correo-municipalidades.md](docs/07-correo-municipalidades.md) | Correo de invitación a piloto para municipalidades y su seguimiento |
+| [docs/08-invitacion-veterinarios.md](docs/08-invitacion-veterinarios.md) | Invitación a veterinarios para el piloto de Kiltrazo Clínica (correo y WhatsApp) |
 
 Los corchetes `[ ]` marcan datos que hay que completar con cifras reales (desde Admin) justo antes de enviar.
 
