@@ -31,20 +31,30 @@ Para que funcione necesitamos que muchas mascotas estén registradas: es gratis 
 
 Cualquier duda o sugerencia, me pueden escribir por aquí. ¡Gracias por todo lo que hacen en este grupo! 🙏
 
-## 3. Para veterinarios (grupos de veterinarios o página profesional)
+## 3. Para grupos de veterinarios
 
-👩‍⚕️👨‍⚕️ **Busco 5 veterinarios para probar gratis Kiltrazo Clínica por 3 meses.**
+> Muchos grupos prohíben la publicidad. Este texto pide opinión y ofrece un piloto gratis; si el grupo es estricto, pide permiso al administrador antes de publicar.
 
-Es una herramienta chilena pensada para clínicas pequeñas y veterinarios a domicilio:
-✅ Agenda y reservas online
-✅ Fichas clínicas y vacunas desde el celular
-✅ Modo atención a domicilio
-✅ Página propia y aparición en el buscador de veterinarios
-✅ Cada paciente queda registrado con reconocimiento facial, para que si se pierde lo identifiquen sin lector de chip
+Hola colegas 👋 Soy Andrés, fundador de Kiltrazo, y les escribo para pedirles una mano.
 
-Sin instalar nada y sin compromiso. A cambio, solo pido tu opinión sincera.
+Desarrollé una herramienta para **clínicas pequeñas y veterinarios a domicilio**, y busco **5 veterinarios que la prueben gratis por 3 meses** y me digan con total honestidad qué les sirve y qué no.
 
-¿Te interesa? Escríbeme por interno o en kiltrazo.cl 🐾
+Qué incluye **Kiltrazo Clínica**:
+📅 Agenda con reservas online: el tutor pide hora desde un enlace, sin ir y venir por WhatsApp.
+📋 Ficha clínica y registro de vacunas, accesibles desde el celular.
+🚗 Modo atención a domicilio, con las visitas del día ordenadas.
+🔎 Página propia y aparición en un buscador de veterinarios para tutores.
+🐾 Cada paciente que atienden queda registrado con **reconocimiento facial**: si se pierde, cualquiera puede identificarlo con la cámara del celular, sin lector de chip, y avisarle al tutor.
+
+No hay que instalar nada (funciona en el navegador), no tiene costo y no hay compromiso. Yo los ayudo a configurarlo.
+
+Si les interesa o quieren verla primero, coméntenme o escríbanme por interno. También agradezco mucho las críticas: ¿qué les falta hoy a los sistemas que usan? 🙏
+
+kiltrazo.cl
+
+### Versión corta (para comentarios o grupos con poco texto)
+
+🐾 Busco 5 veterinarios (clínica pequeña o a domicilio) para probar gratis por 3 meses Kiltrazo Clínica: agenda con reservas online, fichas y vacunas desde el celular, y registro de pacientes con reconocimiento facial para que, si se pierden, los identifiquen sin lector de chip. Sin instalar nada y sin compromiso. A cambio, solo pido su opinión sincera. ¿A alguien le interesa? 🙌 kiltrazo.cl
 
 ## Consejos
 - **Imagen o video:** usa siempre uno. Lo ideal es un video corto de un perro siendo reconocido con el celular, el mismo que se puede reutilizar para Corfo.
