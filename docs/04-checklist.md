@@ -27,3 +27,4 @@ Casi todo se puede hacer en octubre y noviembre, antes de que abra la convocator
 - [ ] Instalar PetLoc y revisar qué hace (¿tiene *matching* automático por imagen? ¿cuántos usuarios tiene?)
 - [ ] Confirmar que Petnow, Petco Love Lost y Ring no operan en Chile
 - [ ] Completar los nombres del software veterinario local en la sección de competencia
+- [ ] Buscar una cifra reciente de alertas de extravío y animales devueltos en el Registro Nacional (SUBDERE o Ley de Transparencia)

@@ -12,6 +12,8 @@ Kiltrazo devuelve a casa a perros y gatos perdidos reconociendo su cara con cual
 ### Problema
 Cuando una mascota se pierde en Chile, quien la encuentra casi nunca puede saber de quién es: las placas con datos se caen o no existen, y leer el microchip exige un lector que solo tienen algunas clínicas y municipios. Los dueños dependen de carteles y grupos de Facebook, y muchas mascotas terminan en la calle o en refugios. Al mismo tiempo, la Ley 21.020 (Ley Cholito) obliga a los municipios a registrar y controlar mascotas, y muchos no tienen herramientas digitales simples para hacerlo. Las clínicas veterinarias pequeñas y los veterinarios a domicilio gestionan su agenda en cuadernos, WhatsApp o planillas.
 
+✏️ El Registro Nacional de Mascotas tiene un sistema de alertas por extravío, pero la búsqueda depende del microchip. Según SUBDERE, de 6.173 alertas activadas solo 1.531 terminaron con el animal devuelto (≈25 %) [actualizar con una cifra reciente o citar la fecha del balance].
+
 [Agregar 1 o 2 cifras oficiales: hogares con mascotas, animales sin dueño o con extravío, según la encuesta de SUBDERE, con la fuente y el año.]
 
 ### Solución
@@ -33,7 +35,7 @@ Kiltrazo es una app web instalable (funciona en iPhone y Android sin pasar por l
 
 Fuera de Chile, el reconocimiento de mascotas por imagen ya demostró que funciona: Petco Love Lost (EE.UU.) dice haber reunido a más de 100.000 mascotas con sus familias, Petnow (Corea) identifica perros por la huella de la nariz y ya vende a gobiernos locales, y Ring (Amazon) usa las cámaras de los vecinos para buscar perros perdidos. Ninguno opera en Chile, y todos dependen de grandes redes propias (refugios, cámaras) o de que el tutor registre a su mascota por su cuenta.
 
-En Chile, las alternativas son el Registro Nacional de Mascotas (solo microchip, sin búsqueda ciudadana), los grupos de Facebook e Instagram, las placas QR y apps comunitarias de perdidos y encontrados como PetLoc [ajustar tras revisarla]. El software veterinario disponible, como [1 o 2 nombres], no se conecta con las mascotas perdidas.
+En Chile, las alternativas son el Registro Nacional de Mascotas de SUBDERE (registratumascota.cl), que permite reportar una mascota extraviada, pero quien la encuentra solo puede buscarla con el número de microchip, lo que exige un lector, los grupos de Facebook e Instagram, las placas QR y apps comunitarias de perdidos y encontrados como PetLoc [ajustar tras revisarla]. El software veterinario disponible, como [1 o 2 nombres], no se conecta con las mascotas perdidas.
 
 Kiltrazo es la única solución que encontramos que une el reconocimiento facial desde cualquier navegador (sin app ni hardware), con precisión medida, y el software de gestión de clínicas y municipios. Esto resuelve el principal problema de estas plataformas, que es conseguir que se registren mascotas: cada atención en una clínica y cada operativo municipal suman una mascota reconocible.
 
