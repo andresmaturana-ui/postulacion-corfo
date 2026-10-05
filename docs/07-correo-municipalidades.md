@@ -1,5 +1,7 @@
 # Correo a municipalidades: invitación a piloto gratuito
 
+**Lista de destinatarios:** [data/municipalidades.xlsx](../data/municipalidades.xlsx) (también en CSV). Tiene las 345 comunas con alcalde/sa, correo general, correo del área animal o ambiental cuando el municipio lo publica, teléfono, prioridad y columnas para hacer el seguimiento.
+
 **A quién enviarlo:** al encargado o encargada de Tenencia Responsable de Mascotas (a veces dentro de la Dirección de Medio Ambiente, Aseo y Ornato, DIMAO, o de una Oficina de Protección Animal o Bienestar Animal). Si no aparece en el sitio del municipio, enviarlo a la Oficina de Partes o por Ley de Lobby/OIRS pidiendo que se derive.
 
 **Recomendaciones:**
@@ -17,6 +19,9 @@
 - Propuesta de piloto sin costo: reconocimiento facial de mascotas perdidas
 
 ## Cuerpo
+
+> **Si solo tienes el correo general** (alcaldía u Oficina de Partes), cambia el saludo por:
+> *Estimado/a Alcalde/sa [Nombre del alcalde/sa]:* y agrega antes de la despedida: *Le agradecería derivar esta invitación a la unidad encargada de tenencia responsable de mascotas.*
 
 Estimado/a [Nombre]:
 [Cargo], Municipalidad de [Comuna]
