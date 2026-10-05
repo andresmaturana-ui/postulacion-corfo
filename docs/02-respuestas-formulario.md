@@ -29,9 +29,13 @@ Kiltrazo es una app web instalable (funciona en iPhone y Android sin pasar por l
 - **Efecto red:** cada clínica y municipio que usa Kiltrazo registra mascotas, y cada mascota registrada hace más útil el reconocimiento para todos.
 
 ### Competencia
-Registro Nacional de Mascotas (solo chip, sin búsqueda ciudadana); grupos de Facebook e Instagram de mascotas perdidas (sin búsqueda por imagen); placas QR con los datos del dueño (se pierden y exponen datos); y software veterinario como [1 o 2 nombres] (no se conecta con la comunidad ni con las mascotas perdidas). Kiltrazo es el único que reúne las tres cosas.
+✏️ Ver el análisis completo en [06-competencia.md](06-competencia.md).
 
-✏️ [Agregar las apps extranjeras de reconocimiento facial de mascotas, si se conocen, y explicar por qué Kiltrazo es distinto: no requiere app nativa, integra clínicas y municipios y está pensado para Chile. Es mejor reconocerlas que dejar que el evaluador las encuentre.]
+Fuera de Chile, el reconocimiento de mascotas por imagen ya demostró que funciona: Petco Love Lost (EE.UU.) dice haber reunido a más de 100.000 mascotas con sus familias, Petnow (Corea) identifica perros por la huella de la nariz y ya vende a gobiernos locales, y Ring (Amazon) usa las cámaras de los vecinos para buscar perros perdidos. Ninguno opera en Chile, y todos dependen de grandes redes propias (refugios, cámaras) o de que el tutor registre a su mascota por su cuenta.
+
+En Chile, las alternativas son el Registro Nacional de Mascotas (solo microchip, sin búsqueda ciudadana), los grupos de Facebook e Instagram, las placas QR y apps comunitarias de perdidos y encontrados como PetLoc [ajustar tras revisarla]. El software veterinario disponible, como [1 o 2 nombres], no se conecta con las mascotas perdidas.
+
+Kiltrazo es la única solución que encontramos que une el reconocimiento facial desde cualquier navegador (sin app ni hardware), con precisión medida, y el software de gestión de clínicas y municipios. Esto resuelve el principal problema de estas plataformas, que es conseguir que se registren mascotas: cada atención en una clínica y cada operativo municipal suman una mascota reconocible.
 
 ### Clientes y mercado
 - **Usuarios (gratis):** hogares con perros o gatos en Chile. [Cifra oficial de la Encuesta Nacional de Tenencia Responsable de SUBDERE.]

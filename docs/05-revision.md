@@ -21,8 +21,8 @@ El modelo de negocio incluye placas de collar y publicidad. Antes de postular **
 - DINOv2: Meta lo publicó con licencia Apache 2.0, que permite uso comercial. Conviene mencionarlo para mostrar que el tema está revisado.
 - DogFaceNet: confirma bajo qué licencia se distribuye la base y cítala como fuente de evaluación, no de entrenamiento comercial, salvo que la licencia lo permita.
 
-## 6. Competencia
-Existen apps extranjeras de reconocimiento facial de mascotas. Si el texto dice "Kiltrazo es el único", un evaluador que las encuentre en Google le restará puntos. Es mejor nombrarlas y explicar la diferencia: funciona en el navegador sin app nativa, integra clínicas y municipios, y está pensado para el contexto chileno (Ley Cholito y Registro Nacional de Mascotas).
+## 6. Competencia ✅ investigada
+Ver [06-competencia.md](06-competencia.md). Hay competidores internacionales fuertes (Petnow, Petco Love Lost, Ring Search Party), pero no encontré ninguno que opere en Chile. Sirven como prueba de que hay demanda. El competidor local directo es **PetLoc** (chileno): hay que revisarlo a fondo antes de postular y no afirmar nada sobre él sin haberlo comprobado.
 
 ## 7. Mercado sin números
 La sección de mercado todavía no tiene cifras. Las más importantes son el **número de clínicas veterinarias en Chile** y el **precio por clínica**, porque de ahí sale un mercado alcanzable creíble (por ejemplo, "N clínicas × $X al mes × 12").

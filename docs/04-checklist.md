@@ -24,3 +24,6 @@ Casi todo se puede hacer en octubre y noviembre, antes de que abra la convocator
 - [ ] Verificar la licencia de uso de DogFaceNet para fines comerciales o de evaluación
 - [ ] Hacer una primera medición en terreno con fotos reales de las clínicas piloto
 - [ ] Revisar los términos y condiciones y la política de privacidad actuales de kiltrazo.cl
+- [ ] Instalar PetLoc y revisar qué hace (¿tiene *matching* automático por imagen? ¿cuántos usuarios tiene?)
+- [ ] Confirmar que Petnow, Petco Love Lost y Ring no operan en Chile
+- [ ] Completar los nombres del software veterinario local en la sección de competencia

@@ -11,6 +11,7 @@ Kiltrazo devuelve a casa a perros y gatos perdidos reconociendo su cara con cual
 | [docs/03-hitos-presupuesto-riesgos.md](docs/03-hitos-presupuesto-riesgos.md) | Objetivos, hitos por mes, presupuesto y riesgos |
 | [docs/04-checklist.md](docs/04-checklist.md) | Tareas antes de postular, con su estado |
 | [docs/05-revision.md](docs/05-revision.md) | Revisión crítica: puntos débiles y mejoras sugeridas |
+| [docs/06-competencia.md](docs/06-competencia.md) | Competidores nacionales e internacionales y texto para el formulario |
 
 Los corchetes `[ ]` marcan datos que hay que completar con cifras reales (desde Admin) justo antes de enviar.
 
